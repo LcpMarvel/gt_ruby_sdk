@@ -1,0 +1,34 @@
+AllCops:
+  DisplayCopNames: true
+  DisplayStyleGuide: true
+
+Style/AsciiComments:
+  Enabled: false
+
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Metrics/MethodLength:
+  Max: 30
+
+Metrics/LineLength:
+  Max: 90
+
+Metrics/AbcSize:
+  Max: 30
+
+Metrics/ClassLength:
+  Max: 600
+
+Metrics/ParameterLists:
+  Max: 6
+
+Style/NumericLiterals:
+  Description: >-
+                 Add underscores to large numeric literals to improve their
+                 readability.
+  StyleGuide: 'https://github.com/bbatsov/ruby-style-guide#underscores-in-numerics'
+  Enabled: false
