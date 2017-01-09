@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+
+gem 'gt_ruby_sdk', path: '../'
+gem 'sinatra'
