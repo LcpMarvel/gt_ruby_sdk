@@ -1,6 +1,7 @@
 AllCops:
   DisplayCopNames: true
   DisplayStyleGuide: true
+  TargetRubyVersion: 2.0
 
 Style/AsciiComments:
   Enabled: false
