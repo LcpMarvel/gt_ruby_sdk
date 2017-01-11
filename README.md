@@ -1,8 +1,5 @@
 # GtRubySdk
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/gt_ruby_sdk`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+极速验证码 Ruby SDK
 
 ## Installation
 
@@ -20,9 +17,14 @@ Or install it yourself as:
 
     $ gem install gt_ruby_sdk
 
-## Usage
+## Demo
 
-TODO: Write usage instructions here
+```bash
+git clone git@github.com:LcpMarvel/gt_ruby_sdk.git
+cd ./gt_ruby_sdk/web
+bundle install
+ruby demo.rb
+```
 
 ## Development
 
